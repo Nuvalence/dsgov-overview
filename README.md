@@ -46,3 +46,8 @@ The [dsgov-libs](https://github.com/Nuvalence/dsgov-libs) repository contains a 
 
 * **dsgov-auth**: Encoding of authentication and authorization contract between DSGov components via issuance of JWTs.
 * **dsgov-logging**: Common application logging conventions, including correlation ID management for distributed tracing.
+
+## Acknowledgement & Involvement
+DSGov was released and is actively maintained by [Nuvalence](http://nuvalence.io/) engineers, product managers and designers based on our collective experience delivering modern solutions for public sector clients for the past several years.
+
+We welcome contributions by the community at large, particularly public-sector professionals committed to improving the digital experiences of the public they serve.
